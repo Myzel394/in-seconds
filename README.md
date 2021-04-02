@@ -4,6 +4,8 @@ Simply convert days, weeks, months, etc. to seconds.
 
 And that's basically it. Typescript supported.
 
+[Also check out in-milliseconds](https://github.com/Myzel394/in-milliseconds)
+
 ```typescript
 import inSeconds from "in-seconds";
 
