@@ -36,5 +36,11 @@ describe("library", () => {
 
         expect(result).toBe(60 * 60 * 24 * 365 * 2);
     })
+
+    it("month functio with custom daysInMonth argument works as expected", () => {
+        const result = asSeconds.months(2, 28);
+
+        expect(result).toBe(60 * 60 * 24 * 28 * 2);
+    })
 })
 

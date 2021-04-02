@@ -1,7 +1,7 @@
 {
   "name": "in-seconds",
-  "description": "Simply convert days, weeks, months, etc. to seconds.",
-  "version": "1.0.0",
+  "description": "Simply convert days, weeks, months, etc. to seconds",
+  "version": "1.1.0",
   "license": "MIT",
   "author": "Myzel394 Xyllian <myzel394.xyllian@gmail.com>",
   "repository": "Myzel394/in-seconds",
