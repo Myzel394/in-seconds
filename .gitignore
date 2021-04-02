@@ -300,3 +300,7 @@ temp/
 # https://plugins.jetbrains.com/plugin/12206-codestream
 
 # End of https://www.toptal.com/developers/gitignore/api/node,jetbrains,webstorm
+
+.idea
+*/.idea
+**/.idea
