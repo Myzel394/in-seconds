@@ -13,7 +13,7 @@
   ],
   "main": "./dist/cjs/in-seconds.js",
   "module": "./dist/esm/in-seconds.js",
-  "typings": "./dist/esm/index.d.ts",
+  "typings": "./dist/esm/in-seconds.d.ts",
   "files": [
     "dist/"
   ],
